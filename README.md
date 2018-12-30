@@ -1,1 +1,1 @@
-Ceci est un gros bisou virtuel
+Ceci est un petit bisou virtuel
